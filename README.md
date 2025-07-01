@@ -12,11 +12,6 @@ A responsive Netflix Clone built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📸 Screenshot
-
-*(Add a screenshot later if you want)*
-
----
 
 ## 🛠️ Features
 
